@@ -1,0 +1,100 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "content": "Browser can execute only Javascript",
+      "date": "2019-05-30T18:39:34.091Z",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "date": "2019-05-30T19:20:14.298Z",
+      "important": true
+    },
+    {
+      "content": "Testi",
+      "date": "2019-10-23T14:05:00.000Z",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "asfasa",
+      "date": "2019-11-06T10:48:47.189Z",
+      "important": true,
+      "id": 14
+    },
+    {
+      "content": "ads",
+      "date": "2019-11-06T12:56:16.139Z",
+      "important": true,
+      "id": 16
+    },
+    {
+      "content": "t",
+      "date": "2019-11-06T13:01:49.707Z",
+      "important": true,
+      "id": 27
+    },
+    {
+      "content": "t",
+      "date": "2019-11-06T13:01:50.123Z",
+      "important": true,
+      "id": 29
+    },
+    {
+      "content": "t",
+      "date": "2019-11-06T13:01:50.322Z",
+      "important": true,
+      "id": 30
+    },
+    {
+      "content": "Korjaa koodi",
+      "date": "2019-11-13T11:25:16.127Z",
+      "important": true,
+      "id": 32
+    },
+    {
+      "content": "Korjaa koodi",
+      "date": "2019-11-13T11:25:17.199Z",
+      "important": true,
+      "id": 33
+    },
+    {
+      "content": "Korjaa koodi",
+      "date": "2019-11-13T11:25:18.103Z",
+      "important": true,
+      "id": 34
+    },
+    {
+      "content": "Korjaa koodi",
+      "date": "2019-11-13T11:25:19.223Z",
+      "important": true,
+      "id": 35
+    },
+    {
+      "content": "Matti",
+      "date": "2019-11-13T11:42:20.293Z",
+      "important": false,
+      "id": 36
+    },
+    {
+      "content": "ofof",
+      "date": "2019-11-13T11:42:58.590Z",
+      "important": true,
+      "id": 37
+    },
+    {
+      "content": "fff",
+      "date": "2019-12-17T10:35:50.305Z",
+      "important": false,
+      "id": 38
+    },
+    {
+      "content": "fff",
+      "date": "2019-12-17T10:35:53.409Z",
+      "important": true,
+      "id": 39
+    }
+  ]
+}
